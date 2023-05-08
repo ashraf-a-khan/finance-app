@@ -3,7 +3,7 @@ import React from "react";
 
 type Props = {};
 
-const Row2 = (props: Props) => {
+const Row3 = (props: Props) => {
     return (
         <>
             <DashboardBox gridArea="g"></DashboardBox>
@@ -14,4 +14,4 @@ const Row2 = (props: Props) => {
     );
 };
 
-export default Row2;
+export default Row3;
